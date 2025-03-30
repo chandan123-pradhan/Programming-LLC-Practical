@@ -1,9 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:google_fonts/google_fonts.dart';
 import 'package:practicle/core/routes.dart';
 
-void main() {
-   GoogleFonts.config.allowRuntimeFetching = true;  
+void main() {  
   runApp(const MyApp());
 }
 
